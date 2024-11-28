@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "C:\Users\gr431_fease\Desktop\DesignPro\venv"
+setenv VIRTUAL_ENV "C:\Users\gr431_fease\Desktop\DesignPro-166c81936f3701544d55ab366cab7f5158b6be03\venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/Scripts:$PATH"

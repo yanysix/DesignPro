@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\gr431_fease\Desktop\DesignPro\venv"
+VIRTUAL_ENV="C:\Users\gr431_fease\Desktop\DesignPro-166c81936f3701544d55ab366cab7f5158b6be03\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

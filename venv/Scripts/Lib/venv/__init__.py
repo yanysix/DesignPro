@@ -323,11 +323,11 @@ class EnvBuilder:
         :param context: The information for the environment creation request
                         being processed.
         """
-        text = text.replace('C:\Users\gr431_fease\Desktop\DesignPro\venv', context.env_dir)
+        text = text.replace('C:\Users\gr431_fease\Desktop\DesignPro-166c81936f3701544d55ab366cab7f5158b6be03\venv', context.env_dir)
         text = text.replace('venv', context.env_name)
         text = text.replace('(venv) ', context.prompt)
         text = text.replace('Scripts', context.bin_name)
-        text = text.replace('C:\Users\gr431_fease\Desktop\DesignPro\venv\Scripts\python.exe', context.env_exe)
+        text = text.replace('C:\Users\gr431_fease\Desktop\DesignPro-166c81936f3701544d55ab366cab7f5158b6be03\venv\Scripts\python.exe', context.env_exe)
         return text
 
     def install_scripts(self, context, path):
