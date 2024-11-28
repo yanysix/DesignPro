@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d96e711-65d4-4a9d-b765-dc2557d5a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/templates/studio/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/logged_out.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPro/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPro/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/templates/base_generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/studio/templates/base_generic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/studio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/studio/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/studio/templates/base_generic.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -130,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -389,7 +380,7 @@
     <entry file="file://$PROJECT_DIR$/studio/templates/base_generic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
         </state>
       </provider>
     </entry>
