@@ -1,0 +1,6 @@
+<h1>Создать заявку на дизайн</h1>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}  <!-- renders the form fields as paragraphs -->
+    <button type="submit" class="btn btn-primary">Создать заявку</button>
+</form>

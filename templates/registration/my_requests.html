@@ -1,0 +1,14 @@
+<h1>Мои заявки</h1>
+{% if requests %}
+    <ul>
+        {% for request in requests %}
+            <li>
+                <h2>{{ request.room_type }}</h2>
+                <p>{{ request.description|truncatechars:100 }}</p>  <!-- Truncates description for brevity -->
+                <a href="{% url 'delete_request' request.id %}">Удалить</a>
+            </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>У вас нет активных заявок.</p>
+{% endif %}
